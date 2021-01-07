@@ -1,0 +1,288 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.top_section{
+    padding-top: 50px;
+}
+.first_half{
+    width: 40%;
+    padding: 0px 0px 0px 60px;
+    float: left;
+
+}
+.first_half p{
+    
+    font-size: smaller;
+    font-weight: 100;
+    width: 250px;
+    margin-top: 0px;
+
+}
+.first_half h1{
+    color: #363958;
+    font-size:xx-large;
+
+}
+.name_highlit{
+    color: #ff8367;
+    font-weight: 800;
+}
+.secend_half{
+    width: 45%;
+    float: left;
+    
+}
+.secend_half img{
+    width: 100%;
+    height: auto;
+}
+.first_half button {
+    width: 110px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: coral;
+    border: none;
+  }
+  .first_half a {
+    text-decoration: none;
+    font-size: large;
+    color: white;
+    font-weight: 900;
+  }
+.middle_section{
+    margin-left: 25px;
+}
+
+  #last{
+    margin-top: 85px;
+    margin-left: 40px;
+  }
+  #last h2{
+      color: #363958;
+  }
+  #last p{
+      color:  #363958;
+  }
+  #last button{
+      width: 130px;
+  }
+  #last a {
+      font-size: initial;
+      font-weight: 500;
+  }
+
+
+/* working project section start */
+.last_footer{
+height: 700px;
+background-color: #f8f9fc;
+
+
+}
+
+
+
+
+.clear{
+    clear: both;
+}
+
+
+.footer_top{
+    overflow: hidden;
+}
+
+
+
+
+.footer_top h2{
+    text-align: center;
+    margin-top: 50px;
+
+    padding-top: 100px;
+    font-size: xx-large;
+    font-weight: 900;
+    color: #363958;
+}
+
+
+.single_sample_projects{
+    
+    background-color: #ffff;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 15px;
+    float: left;
+    width: 30%;
+}
+
+.sample_of_projects{
+    margin: auto;
+}
+.single_sample_projects img{
+    width: 100%;
+    height: 150px;
+
+}
+.single_sample_projects{
+    
+    background-color: #ffff;
+    margin-left: 5px;
+    height: auto;
+    border-radius: 15px;
+    float: left;
+    width: 30%;
+    margin-left: 25px;
+    margin-top: 60px;
+    box-shadow: 1px 0px #888;
+}
+
+.single_sample_projects h4{
+    color: #363958;
+    margin-bottom: 3px;
+
+}
+
+.single_sample_projects p{
+    color: #363958;
+    margin-top: 0%;
+}
+
+/* .end_section{
+    width: 100%;
+    height: 500px;
+}
+
+.end_section{
+    background-image: url(img/lastbtn.png);
+    margin-top: 150px;
+    width: 70%;
+    height: 150px;
+    margin-left: 15%;
+} */
+
+.last_end {
+	width: 60%;
+	margin: auto;
+	padding: 100px 0;
+}
+.inquery {
+	background-image: url('img/lastbtn.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	padding: 100px 50px;
+}
+.inquery h2 {
+	font-size: 30px;
+	color: #fff;
+	display: inline;
+}
+.inquery .actionBtn {
+	float: right;
+}
+.last_btn{
+    width: 120px;
+    height: 25px;
+    background: #f66661;
+    margin-left: 115px;
+    border: none;
+    border-radius: 5px;
+}
+.last_btn a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: initial;
+}
+
+.finishing {
+    width: 250px;
+    margin: auto;
+
+}
+.finishing h4{
+    color: #363958;
+    text-align: center;
+
+}
+
+.finishing h2{
+    color: #363958;
+    text-align: center;
+}
+.finishing img {
+    width: 30px;
+    margin-left: 20px;
+    padding-left: 15px;
+    text-align: center;
+  }
+
+
+  /* Extea sEction Start */
+
+.extra_section{
+    background-color: gainsboro;
+    height: 700px;
+    overflow: hidden;
+    
+}
+
+.extra_section h1{
+    padding-top: 100px;
+    text-align: center;
+    font-size: xx-large;
+    color: #363958;
+    padding-bottom: 50px;
+}
+
+  .extra_mark{
+        width: 28%;
+        margin-left: 30px;
+        padding: 5px;
+        background-color: darkgray;
+        border-radius: 10px;
+        height: 350px;
+        float: left;
+    }
+.single_article{
+    padding: 33px;
+}
+  .single_article img{
+      width: 100%;
+      height:150px;
+      border-radius: 10px;
+
+  }
+
+  .single_article h3{
+      color: #363958;
+      margin-bottom: 0px;
+  }
+
+  .single_article p{
+      color: #363958;
+      margin-top: 2px;
+  }
+  .a_button{
+    background-color: #fb7362;
+    width: 115px;
+    height: 25px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+  }
+
+  .single_article a {
+    text-align: center;
+    text-decoration: navajowhite;
+    color: #ffff;
+  }
+
+  .end_part{
+      overflow: hidden;
+  }
